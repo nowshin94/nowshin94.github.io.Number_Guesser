@@ -1,0 +1,36 @@
+#hd {
+  font-size: 36px;
+  color: bisque;
+}
+
+#genDiv {
+  text-align: center;
+  font-size: 32px;
+}
+
+body {
+  background-image: url('/pic1.jpg');
+  max-width: 100%;
+  height: auto;
+  font-family: 'Henny Penny', cursive;
+  background-repeat: no-repeat;
+  background-attachment: local;
+}
+
+#result {
+  font-size: 28px;
+  color: white;
+}
+
+.in {
+  font-size: 30px;
+  color: aqua;
+}
+
+#play {
+  background-color: white;
+  color: white;
+}
+#sub {
+  font-size: 28px;
+}
