@@ -9,7 +9,7 @@
 }
 
 body {
-  background-image: url('pic1.jpg');
+  background-image: url('pic1.jpg'), url('pic2.jpg');
   max-width: 100%;
   height: auto;
   font-family: 'Henny Penny', cursive;
