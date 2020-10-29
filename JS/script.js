@@ -8,7 +8,6 @@ function randomNumber() {
 var results;
 var alert;
 let cA = randomNumber();
-console.log(cA);
 
 function vis() {
   if (results) {
@@ -35,13 +34,9 @@ function checkEXP() {
   } else {
     count = count + 1;
     check(guess1);
-
-    console.log(count);
   }
 
   function check(guess1) {
-    console.log('count' + count);
-
     if (count <= 3) {
       if (guess1 == cA) {
         results = 'you won!';
